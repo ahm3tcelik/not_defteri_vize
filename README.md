@@ -1,6 +1,16 @@
-# not_defteri_vize
+# Flutter Notepad App
 
-A new Flutter project.
+## Screenshots
+
+### Notes
+![](https://github.com/ahm3tcelik/not_defteri_vize/blob/main/showcase/notes.jpg)
+
+### Note Detail
+![](https://github.com/ahm3tcelik/not_defteri_vize/blob/main/showcase/note_detail.png)
+
+### Auth Pages
+![](https://github.com/ahm3tcelik/not_defteri_vize/blob/main/showcase/register.jpg)
+![](https://github.com/ahm3tcelik/not_defteri_vize/blob/main/showcase/login.jpg)
 
 ## Getting Started
 
