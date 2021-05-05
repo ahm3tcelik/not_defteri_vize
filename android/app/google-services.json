@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560976920997",
+    "project_id": "notepad-vize",
+    "storage_bucket": "notepad-vize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560976920997:android:31878a1dda8230416ba84c",
+        "android_client_info": {
+          "package_name": "com.example.not_defteri_vize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560976920997-nbct4h6gctml8654og8khjqs1cvvumv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARApAK9nePiNlDjafQ-hdU_BD7vE6e1NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560976920997-nbct4h6gctml8654og8khjqs1cvvumv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
